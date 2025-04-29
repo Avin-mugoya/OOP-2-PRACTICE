@@ -1,0 +1,9 @@
+public class challenge1 {
+    public static void sayHello() {
+        System.out.println("Good afternoon");
+    }
+
+    public static void main(String[] args) {
+        sayHello();
+    }
+}
